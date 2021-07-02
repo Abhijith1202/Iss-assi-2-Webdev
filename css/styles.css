@@ -1,0 +1,127 @@
+.navbuttons {
+    border: 2px solid;
+    padding: 15px 32px;
+    text-align: center;
+    border-radius: 10%;
+    background-color: aqua;
+}
+
+.navbar {
+    overflow: hidden;
+    text-align: center;
+    border: 2px solid;
+    border-color: orange;
+    background-image: url("../img/navbar.jpg");
+    background-color: aliceblue;
+    border-radius: 5px;
+    position: relative;
+    top: 0%;
+    position: fixed;
+    width: 99%;
+}
+
+.homebody {
+    background-color: aquamarine;
+    background-image: url("../img/wallpaper.jpg");
+    color: white;
+}
+
+.figures {
+    color: white;
+}
+
+.bodya {
+    background-image: url("../img/mainbg4.jpg");
+    background-color: #223047;
+}
+
+.profile {
+    border: 2px solid;
+    border-color: royalblue;
+    background-image: url("../img/background.png");
+    background-color: aliceblue;
+    border-radius: 5px;
+    width: 99%;
+    height: 260px;
+}
+
+.content {
+    margin-top: 100px;
+    color: aliceblue;
+}
+
+.home-content {
+    margin-top: 100px;
+    color: black;
+}
+
+.colourlink {
+    color: white;
+}
+
+.tablecontent {
+    width: 50%;
+    border: 3px solid;
+    border-color: yellow;
+    /* background-color:white; */
+    padding: 10px;
+    text-align: center;
+}
+
+table,
+th,
+td {
+    color: aliceblue;
+    border: 1px solid white;
+}
+
+.contactcontent {
+    color: seashell;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.contactlogo {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+#errormsg {
+    color: red;
+}
+
+.formtable {
+    width: 50%;
+    background-color: slateblue;
+    background-image: url("../img/mainbg3.jpg");
+    border: 3px solid;
+    border-color: silver;
+    padding: 10px;
+    text-align: center;
+}
+
+.slideshowdiv {
+    text-align: center;
+}
+
+.slideshow {
+    width: 500px;
+    height: 500px;
+}
+
+.contactbody {
+    background-image: url("../img/contact.png");
+    background-color: #223047;
+}
+
+.contactlist {
+    display: inline;
+}
+
+
+/* .stick_bar {
+    position: fixed;
+    top: 0px;
+    width: 99%;
+} */
